@@ -1,0 +1,14 @@
+# Node modules (React Native)
+client/node_modules/
+
+# Python cache
+server/__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+server/venv/
+.env
+
+# MacOS artifacts
+.DS_Store
